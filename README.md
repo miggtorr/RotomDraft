@@ -118,8 +118,8 @@ The Rosters Drawer offers a handful of other convenient functions for managing R
 
 - Roster Duplication: If you change the name of the Roster in the Roster Name box at the top and click Save, it will not Rename the Roster. Rather, it will create a duplicate Roster with the new name (to Rename a Roster, use the Rename button instead).
 
-Filters
-- At the top of the Drawer, under the Roster Name and Save button
+- Filter Rosters by Name or by the name of any Pokémon on a Roster!
+- Filter Rosters by League
 
 - New: Generates a new, unsaved blank Roster. Does not save a new Roster. The same as deselecting all Rosters. 
 - Rename: Rename the current Roster.
