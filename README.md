@@ -9,7 +9,9 @@ Powerful integrations with [Pokemon Showdown](https://play.pokemonshowdown.com),
 
 ## Requirements
 
-macOS 14 Sonoma or higher.
+- macOS 14 Sonoma or higher.
+- An intenet connection is required when adding a Pokémon to a Roster for the first time, as its data is downloaded and cached from the PokéAPI. If a Pokemon has already been cached, no connection is required.
+
 
 NOTE: There are currently no plans to port the software to Windows/Linux.
 
@@ -116,22 +118,29 @@ Rosters save automatically when updated in this way.
 
 The Rosters Drawer offers a handful of other convenient functions for managing Rosters:
 
-- Roster Duplication: If you change the name of the Roster in the Roster Name box at the top and click Save, it will not Rename the Roster. Rather, it will create a duplicate Roster with the new name (to Rename a Roster, use the Rename button instead).
+##### Roster Duplication 
+If you change the name of the Roster in the Roster Name box at the top and click Save, it will not Rename the Roster. Rather, it will create a duplicate Roster with the new name (to Rename a Roster, use the Rename button instead).
 
-
+##### Filtering
 - Filter Rosters by Name or by the name of any Pokémon on a Roster!
 - Filter Rosters by League
-  
 
+##### Create/Rename/Delete
 - New: Generates a new, unsaved blank Roster. Does not save a new Roster. The same as deselecting all Rosters. 
 - Rename: Rename the current Roster.
 - Clear: Clears the current Roster. WARNING: This clears AND saves the current Roster. Only use this if you really want to rebuild a Roster from scratch.
 - Delete: Deletes the current Roster. WARNING: This deletes the current Roster permanently.
 - Favorite: If checked, keeps the current Roster at the top of the Rosters list.
 
-
+##### Remove Pokémon
 - Remove Selected: When a Pokémon is selected in the Current Roster section, it removes that Pokémon from the roster. Does not save (click Save Roster to save).
 
+##### Current Roster Section
+- This Section lets you see all the Pokémon on a roster at a glance.
+
+###### Type Matchup Parameters
+- A Pokémon's default ability can be set here (affects Type Matchup pane)
+- A custom (Tera) type can be set here (affects Type Matchup pane)
 
 
 
