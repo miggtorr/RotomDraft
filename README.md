@@ -76,23 +76,23 @@ Teams can be created and edited inside of Rotom Draft's powerful Team Builder. T
 
 Teams are what you load into Rotom Draft's Battle Calculator, and can feature more than 6 Pokémon, e.g., if you need to calc your team against an opponent's entire roster. 
 
-## Tool Drawers
+# Tool Drawers
 
-### Rosters Drawer
+## Rosters Drawer
 
 The Rosters Drawer can be thought of as the Home Base of Rotom Draft: this is where it all begins.
 
-#### Creating a League
+### Creating a League
 
 When you open Rotom Draft for the first time, it's a good idea to create a League. To do so, click the "Manage Leagues..." button and add a "New" League. Give the League a name and select a Ruleset for the league. If you don't see an applicable ruleset, don't worry. You can add/edit a custom ruleset later. 
 
-#### Creating a Roster
+### Creating a Roster
 
 Next you'll want to create your first roster. There are multiple ways of going about this, but the best way to start is by typing a Roster Name at the top and clicking Save Roster. This will create an empty Roster with the given name.
 
 You'll want to associate this Roster with your League, so click on it and then click the "Manage Leagues..." button again and assign it to the correct League.
 
-#### Adding Pokémon to a Roster
+### Adding Pokémon to a Roster
 
 To add Pokémon to this Roster, make sure it's selected. Then you can do one of the following:
 
@@ -114,35 +114,35 @@ Rotom Draft makes it easy to draft Pokémon straight from the Draft Board corres
 
 Rosters save automatically when updated in this way.
 
-#### Managing Rosters
+### Managing Rosters
 
 The Rosters Drawer offers a handful of other convenient functions for managing Rosters:
 
-###### Roster Duplication 
+#### Roster Duplication 
 If you change the name of the Roster in the Roster Name box at the top and click Save, it will not Rename the Roster. Rather, it will create a duplicate Roster with the new name (to Rename a Roster, use the Rename button instead).
 
-###### Filtering
+#### Filtering
 - Filter Rosters by Name or by the name of any Pokémon on a Roster!
 - Filter Rosters by League
 
-###### Create/Rename/Delete
+#### Create/Rename/Delete
 - New: Generates a new, unsaved blank Roster. Does not save a new Roster. The same as deselecting all Rosters. 
 - Rename: Rename the current Roster.
 - Clear: Clears the current Roster. WARNING: This clears AND saves the current Roster. Only use this if you really want to rebuild a Roster from scratch.
 - Delete: Deletes the current Roster. WARNING: This deletes the current Roster permanently.
 - Favorite: If checked, keeps the current Roster at the top of the Rosters list.
 
-###### Remove Pokémon
+#### Remove Pokémon
 - Remove Selected: When a Pokémon is selected in the Current Roster section, it removes that Pokémon from the roster. Does not save (click Save Roster to save).
 
-###### Current Roster Section
+#### Current Roster Section
 - This Section lets you see all the Pokémon on a roster at a glance.
 
-###### Type Matchup Pane Adjustments
+#### Type Matchup Pane Adjustments
 - A Pokémon's default ability can be set here (affects Type Matchup pane)
 - A custom (Tera) type can be set here (affects Type Matchup pane)
 
-### Tera Type Calculator
+## Tera Type Calculator
 
 The Tera Type Calculator lets you calculate a Pokémon's optimal Tera Type based on its typing and defensive abilities (e.g., Levitate, Thick Fat, etc.).
 
@@ -160,7 +160,7 @@ Select **Additional Considerations** for a summary of special tera type features
 
 Select **Calculation Information** for a summary of the tera type calculation algorithm.
 
-### Schedule Drawer
+## Schedule Drawer
 
 The Schedule Drawer is a multi-faceted tool for helping you keep track of:
 - All the matches you play (including notes for prep and post-mortems)
@@ -170,14 +170,14 @@ The Schedule Drawer is a multi-faceted tool for helping you keep track of:
 
 At the top you will see an option to **Select a League**. Schedules are League-specific. To use these features, you must select a League. 
 
-#### Sections
+### Sections
 
 The Schedule Drawer contains three tabs:
 - Swiss
 - Leaderboard
 - Playoffs
 
-#### Swiss
+### Swiss
 
 In the Swiss Rounds section. You can specify the number of Swiss rounds that a tournament will hold.
 
@@ -194,11 +194,11 @@ In the Rounds section, you record the following for each round:
 
 **IMPORTANT**: When you update a Round in any way, ALWAYS make sure to click **Save Roster Schedule** at the bottom or it won't save. This is especially important when adding Notes.
 
-#### Leaderboard
+### Leaderboard
 
 The Leaderboard tab populates automatically based on the Round scores. 
 
-#### Playoffs
+### Playoffs
 
 The Playoffs tab is similar to the Swiss tab, but is formatted as a standard 12-person tournament bracket. Right now, it's hard-coded to have 12 places. This will change with a later update.
 
