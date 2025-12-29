@@ -138,9 +138,27 @@ If you change the name of the Roster in the Roster Name box at the top and click
 ###### Current Roster Section
 - This Section lets you see all the Pokémon on a roster at a glance.
 
-###### Type Matchup Parameters
+###### Type Matchup Pane Adjustments
 - A Pokémon's default ability can be set here (affects Type Matchup pane)
 - A custom (Tera) type can be set here (affects Type Matchup pane)
 
+### Tera Type Calculator
+
+The Tera Type Calculator lets you calculate a Pokémon's optimal Tera Type based on its typing and defensive abilities (e.g., Levitate, Thick Fat, etc.).
+
+It uses an algorithm to determine a score for each tera type and rank them for the user, similar to [the calculator at terastal.net](https://terastal.net/tera-type-calculator.html/). 
+
+NOTE: This algorithm is meta-agnostic. It's just a starting point. Always consider your league's meta when making final tera-type selections. 
+
+To calculate a Pokémon's optimal tera type:
+1) Make sure a Roster is selected in the Rosters Drawer.
+2) Back in the Tera Type Calculator Drawer, select the Pokémon from the ribbon at the top
+3) Note the summary of its defensive typing.
+4) Consult the generated Tera Type Scores table.
+
+Select **Additional Considerations** for a summary of special tera type features (e.g., Grass-types cannot be spored, Fire-types cannot be burned, etc.)
+Select **Calculation Information** for a summary of the tera type calculation algorithm.
+
+### Schedule Drawer
 
 
