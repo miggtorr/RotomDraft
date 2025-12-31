@@ -27,7 +27,7 @@ All Pokémon Sprites and type icons were sourced from the [PokéAPI Sprite Repos
 
 # Features
 
-**Rotom Draft** features three main workspaces: the **Analysis Panes**, the **Tool Drawers**, and the **Damage Calculator**. 
+**Rotom Draft** features three main workspaces: the **Tool Drawers**, the **Analysis Panes**, and the **Damage Calculator**. 
 
 The **Tool Drawers** features **powerful applets** that let you: 
 - Build your best Roster
