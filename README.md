@@ -15,6 +15,10 @@ Powerful integrations with [Pokemon Showdown](https://play.pokemonshowdown.com),
 
 NOTE: There are currently no plans to port the software to Windows/Linux.
 
+# AI Disclosure
+
+**Rotom Draft** was created with AI-assisted coding. The software was tweaked, debugged, and tested manually on macOS hardware by a real human (me).
+
 # Features
 
 **Rotom Draft** features three main workspaces: the **Analysis Panes**, the **Tool Drawers**, and the **Damage Calculator**. 
